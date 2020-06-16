@@ -1,0 +1,94 @@
+body
+{
+    font-family: 'Blinker', sans-serif;
+    line-height: 1.6;
+    background: rgba(0,0,0,0.7) url(https://www.tastethedram.com/wp-content/uploads/2019/05/videoblocks-network-on-a-black-background-cinematic-plexus-background-seamless-loop_hagskxz4rm_thumbnail-full01.png) no-repeat center fixed;
+    opacity: 1;
+    background-size: cover;
+}
+
+#content
+{
+    margin-left: 22.25%;
+    margin-top: 10%;
+    margin-right: 22.25%;
+    color: white;
+}
+
+#create, #enter
+{
+    text-align: center;
+    margin-top: 5%;
+}
+
+    #create input[type=text], #create select, #create input[type=password] {
+        font-size: 18px;
+        color: black;
+        width: 50%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid indianred;
+        border-radius: 4px;
+        box-sizing: border-box;
+        text-align: center;
+    }
+
+        #create input[type=text]:hover, #create select:hover, #create input[type=password]:hover {
+            color: black;
+            border: 1px solid indianred;
+            transition: 0.5s ease-in-out;
+        }
+
+        #create input[type=submit] {
+            font-size: 18px;
+            width: 25%;
+            background-color: midnightblue;
+            color: white;
+            padding: 14px 20px;
+            margin: 8px 0;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+            #create input[type=submit]:hover {
+                background-color: rgb(30,144,255);
+                transition: 0.5s ease-in-out;
+            }
+            
+    #enter input[type=text], #enter select, #enter input[type=password] {
+            font-size: 18px;
+            color: black;
+            width: 50%;
+            padding: 12px 20px;
+            margin: 8px 0;
+            display: inline-block;
+            border: 1px solid indianred;
+            border-radius: 4px;
+            box-sizing: border-box;
+            text-align: center;
+        }
+    
+            #enter input[type=text]:hover, #enter select:hover, #enter input[type=password]:hover {
+                color: black;
+                border: 1px solid indianred;
+                transition: 0.5s ease-in-out;
+            }
+    
+            #enter input[type=submit] {
+                font-size: 18px;
+                width: 25%;
+                background-color: darkred;
+                color: white;
+                padding: 14px 20px;
+                margin: 8px 0;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+            }
+    
+                #enter input[type=submit]:hover {
+                    background-color: indianred;
+                    transition: 0.5s ease-in-out;
+                }
