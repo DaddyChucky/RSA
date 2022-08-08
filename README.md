@@ -1,5 +1,13 @@
-# cryptoRSA
+# RSA
 
-RSA Website Encryption Replica
+## [EN] Description:
+- Website replica of RSA.
 
-COPYRIGHT: © DE LAFONTAINE, Charles, and Vincent BOOGAART. All Rights Reserved. Any distribution, idea or code replica, is strictly prohibited.
+## [FR] Description:
+- Site Web qui réplique RSA.
+
+## Author / Auteur:
+- Charles De Lafontaine
+
+COPYRIGHT: 
+© DE LAFONTAINE, Charles. All Rights Reserved. Any distribution, idea or code replica, is strictly prohibited.
